@@ -1,0 +1,37 @@
+﻿@using Microsoft.AspNetCore.Builder
+@using Microsoft.AspNetCore.Localization
+@using Microsoft.AspNetCore.Mvc.Localization
+@using Microsoft.Extensions.Options
+
+@inject IViewLocalizer Localizer
+@inject IOptions<RequestLocalizationOptions> LocOptions
+
+@{
+    var requestCulture = Context.Features.Get<IRequestCultureFeature>();
+    var cultureItems = LocOptions.Value.SupportedUICultures
+        .Select(c => new SelectListItem { Value = c.Name, Text = c.DisplayName })
+        .ToList();
+    var returnUrl = string.IsNullOrEmpty(Context.Request.Path) ? "~/" : $"~{Context.Request.Path.Value}";
+}
+
+<div class="dropdown">
+    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        @requestCulture?.RequestCulture.UICulture.DisplayName
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+        @foreach (var culture in cultureItems)
+        {
+            <form asp-controller="Home"
+                  asp-action="SetLanguage"
+                  asp-route-returnUrl="@returnUrl"
+                  method="post"
+                  class="form-horizontal"
+                  role="form">
+                <button type="submit" name="culture" value="@culture.Value" class="dropdown-item">
+                    @culture.Text
+                </button>
+            </form>
+        }
+    </div>
+</div>
+

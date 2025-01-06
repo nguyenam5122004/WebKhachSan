@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="WelcomeMessage" xml:space="preserve">
+    <value>Welcome to Our Luxury Hotel</value>
+  </data>
+  <data name="LearnMore" xml:space="preserve">
+    <value>Learn More</value>
+  </data>
+  <data name="FeaturedRooms" xml:space="preserve">
+    <value>Featured Rooms</value>
+  </data>
+  <data name="PerNight" xml:space="preserve">
+    <value>per night</value>
+  </data>
+  <data name="MaxCapacity" xml:space="preserve">
+    <value>Max Capacity</value>
+  </data>
+  <data name="Size" xml:space="preserve">
+    <value>Size</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>View</value>
+  </data>
+  <data name="BedType" xml:space="preserve">
+    <value>Bed Type</value>
+  </data>
+  <data name="Persons" xml:space="preserve">
+    <value>Persons</value>
+  </data>
+  <data name="ViewRoomDetails" xml:space="preserve">
+    <value>View Room Details</value>
+  </data>
+  <data name="OurServices" xml:space="preserve">
+    <value>Our Services</value>
+  </data>
+  <data name="MapDirection" xml:space="preserve">
+    <value>Map Direction</value>
+  </data>
+  <data name="MapDirectionDescription" xml:space="preserve">
+    <value>Find your way easily with our detailed map directions to our hotel.</value>
+  </data>
+  <data name="AccomodationServices" xml:space="preserve">
+    <value>Accommodation Services</value>
+  </data>
+  <data name="AccomodationServicesDescription" xml:space="preserve">
+    <value>Experience comfort and luxury with our top-notch accommodation services.</value>
+  </data>
+  <data name="GreatExperience" xml:space="preserve">
+    <value>Great Experience</value>
+  </data>
+  <data name="GreatExperienceDescription" xml:space="preserve">
+    <value>Create unforgettable memories with our exceptional hospitality and amenities.</value>
+  </data>
+  <data name="ReadMore" xml:space="preserve">
+    <value>Read more</value>
+  </data>
+</root>
+

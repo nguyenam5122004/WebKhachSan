@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="PerNight" xml:space="preserve">
+  <value>Per Night</value>
+</data>
+	<data name="MaxCapacity" xml:space="preserve">
+  <value>Max Capacity</value>
+</data>
+	<data name="RoomType" xml:space="preserve">
+  <value>Room Type</value>
+</data>
+	<data name="View" xml:space="preserve">
+  <value>View</value>
+</data>
+	<data name="BedType" xml:space="preserve">
+  <value>Bed Type</value>
+</data>
+	<data name="CheckInDate" xml:space="preserve">
+  <value>Check-In Date</value>
+</data>
+	<data name="CheckOutDate" xml:space="preserve">
+  <value>Check-Out Date</value>
+</data>
+	<data name="Email" xml:space="preserve">
+  <value>Email</value>
+</data>
+	<data name="BookNow" xml:space="preserve">
+  <value>Book Now</value>
+</data>
+	<data name="FullyBooked" xml:space="preserve">
+  <value>Fully Booked</value>
+</data>
+	<data name="NoAvailableRooms" xml:space="preserve">
+  <value>No Available Rooms</value>
+</data>
+	<data name="Person" xml:space="preserve">
+  <value>Person</value>
+</data>
+	<data name="People" xml:space="preserve">
+  <value>People</value>
+</data>
+</root>

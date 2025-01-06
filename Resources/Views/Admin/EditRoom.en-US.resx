@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="EditRoomTitle" xml:space="preserve">
+        <value>Edit Room</value>
+    </data>
+	<data name="Name" xml:space="preserve">
+        <value>Name</value>
+    </data>
+	<data name="Description" xml:space="preserve">
+        <value>Description</value>
+    </data>
+	<data name="PricePerNight" xml:space="preserve">
+        <value>Price per Night</value>
+    </data>
+	<data name="IsAvailable" xml:space="preserve">
+        <value>Is Available</value>
+    </data>
+	<data name="Save" xml:space="preserve">
+        <value>Save</value>
+    </data>
+	<data name="BackToRoomsList" xml:space="preserve">
+        <value>Back to Rooms List</value>
+    </data>
+</root>

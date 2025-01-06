@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="EditRoomTitle" xml:space="preserve">
+        <value>Sửa Phòng</value>
+    </data>
+	<data name="Name" xml:space="preserve">
+        <value>Tên</value>
+    </data>
+	<data name="Description" xml:space="preserve">
+        <value>Mô tả</value>
+    </data>
+	<data name="PricePerNight" xml:space="preserve">
+        <value>Giá mỗi đêm</value>
+    </data>
+	<data name="IsAvailable" xml:space="preserve">
+        <value>Có sẵn</value>
+    </data>
+	<data name="Save" xml:space="preserve">
+        <value>Lưu</value>
+    </data>
+	<data name="BackToRoomsList" xml:space="preserve">
+        <value>Quay lại danh sách phòng</value>
+    </data>
+</root>

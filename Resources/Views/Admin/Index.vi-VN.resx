@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="AdminManagementTitle" xml:space="preserve">
+        <value>Quản lý Admin</value>
+    </data>
+	<data name="Rooms" xml:space="preserve">
+        <value>Phòng</value>
+    </data>
+	<data name="ID" xml:space="preserve">
+        <value>ID</value>
+    </data>
+	<data name="RoomName" xml:space="preserve">
+        <value>Tên phòng</value>
+    </data>
+	<data name="Price" xml:space="preserve">
+        <value>Giá</value>
+    </data>
+	<data name="Status" xml:space="preserve">
+        <value>Trạng thái</value>
+    </data>
+	<data name="Available" xml:space="preserve">
+        <value>Còn trống</value>
+    </data>
+	<data name="Booked" xml:space="preserve">
+        <value>Đã đặt</value>
+    </data>
+	<data name="Edit" xml:space="preserve">
+        <value>Sửa</value>
+    </data>
+	<data name="Booking" xml:space="preserve">
+        <value>Đặt phòng</value>
+    </data>
+	<data name="CheckInDate" xml:space="preserve">
+        <value>Ngày đến</value>
+    </data>
+	<data name="CheckOutDate" xml:space="preserve">
+        <value>Ngày đi</value>
+    </data>
+</root>

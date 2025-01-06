@@ -1,0 +1,65 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@model List<WebKhachSan.Models.RoomViewModel>
+@inject IViewLocalizer Localizer
+@{
+    ViewData["Title"] = Localizer["RoomList"];
+}
+
+<section class="ftco-section bg-light">
+    <div class="container-fluid px-md-0">
+        <div class="row no-gutters justify-content-center pb-5 mb-3">
+            <div class="col-md-7 heading-section text-center ftco-animate">
+                <h2>@Localizer["Rooms"]</h2>
+            </div>
+        </div>
+        <div class="row no-gutters">
+            @foreach (var room in Model)
+            {
+                <div class="col-lg-6">
+                    <div class="room-wrap d-md-flex">
+                        <a href="@Url.Action("Details", "Room", new { id = room.Id })" class="img" style="background-image: url(@room.ImageUrl);"></a>
+                        <div class="half @(Model.IndexOf(room) % 2 == 0 ? "left-arrow" : "right-arrow") d-flex align-items-center">
+                            <div class="text p-4 p-xl-5 text-center">
+                                <p class="star mb-0">
+                                    @for (int i = 0; i < 5; i++)
+                                    {
+                                        <span class="fa fa-star"></span>
+                                    }
+                                </p>
+                                <p class="mb-0"><span class="price mr-1">@room.PricePerNight.ToString("C0", System.Globalization.CultureInfo.GetCultureInfo("vi-VN"))</span> <span class="per">@Localizer["PerNight"]</span></p>
+                                <h3 class="mb-3"><a href="@Url.Action("Details", "Room", new { id = room.Id })">@room.Name</a></h3>
+                                <ul class="list-accomodation">
+                                    <li><span>@Localizer["MaxCapacity"]:</span> @room.Capacity @Localizer["Persons"]</li>
+                                    <li><span>@Localizer["Size"]:</span> @room.Size m2</li>
+                                    <li><span>@Localizer["View"]:</span> @room.View</li>
+                                    <li><span>@Localizer["BedType"]:</span> @room.BedType</li>
+                                    <li>
+                                        <span>@Localizer["Availability"]:</span>
+                                        @if (room.AvailableRooms > 0)
+                                        {
+                                            @room.AvailableRooms @Localizer["RoomsAvailable"]
+                                        }
+                                        else
+                                        {
+                                            <span class="text-danger">@Localizer["FullyBooked"]</span>
+                                        }
+                                    </li>
+                                </ul>
+                                @if (room.AvailableRooms > 0)
+                                {
+                                    <p class="pt-1"><a href="@Url.Action("Details", "Room", new { id = room.Id })" class="btn-custom px-3 py-2">@Localizer["ViewRoomDetails"] <span class="icon-long-arrow-right"></span></a></p>
+                                }
+                                else
+                                {
+                                    <p class="pt-1"><span class="btn-custom px-3 py-2 disabled">@Localizer["NotAvailable"]</span></p>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+

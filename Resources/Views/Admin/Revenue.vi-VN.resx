@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="RevenueStatisticsTitle" xml:space="preserve">
+        <value>Thống kê doanh thu</value>
+    </data>
+	<data name="TotalRevenue" xml:space="preserve">
+        <value>Tổng doanh thu</value>
+    </data>
+	<data name="RevenueChart" xml:space="preserve">
+        <value>Biểu đồ doanh thu theo tháng</value>
+    </data>
+	<data name="ConfirmedBookings" xml:space="preserve">
+        <value>Danh sách đặt phòng đã xác nhận</value>
+    </data>
+	<data name="Room" xml:space="preserve">
+        <value>Phòng</value>
+    </data>
+	<data name="CheckInDate" xml:space="preserve">
+        <value>Ngày đến</value>
+    </data>
+	<data name="CheckOutDate" xml:space="preserve">
+        <value>Ngày đi</value>
+    </data>
+	<data name="Price" xml:space="preserve">
+        <value>Giá</value>
+    </data>
+	<data name="ID" xml:space="preserve">
+        <value>ID</value>
+    </data>
+</root>

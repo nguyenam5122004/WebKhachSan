@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="BookingConfirmation" xml:space="preserve">
+        <value>Xác nhận đặt phòng</value>
+    </data>
+	<data name="ThankYouBooking" xml:space="preserve">
+        <value>Cảm ơn bạn đã đặt phòng!</value>
+    </data>
+	<data name="BookingId" xml:space="preserve">
+        <value>Mã đặt phòng</value>
+    </data>
+	<data name="BookingDetails" xml:space="preserve">
+        <value>Chi tiết đặt phòng</value>
+    </data>
+	<data name="Room" xml:space="preserve">
+        <value>Phòng</value>
+    </data>
+	<data name="CheckInDate" xml:space="preserve">
+        <value>Ngày nhận phòng</value>
+    </data>
+	<data name="CheckOutDate" xml:space="preserve">
+        <value>Ngày trả phòng</value>
+    </data>
+	<data name="NumberOfGuests" xml:space="preserve">
+        <value>Số khách</value>
+    </data>
+	<data name="Email" xml:space="preserve">
+        <value>Email</value>
+    </data>
+	<data name="TotalPrice" xml:space="preserve">
+        <value>Tổng giá trị</value>
+    </data>
+	<data name="Status" xml:space="preserve">
+        <value>Trạng thái</value>
+    </data>
+	<data name="ConfirmationEmailSent" xml:space="preserve">
+        <value>Email xác nhận đã được gửi đến bạn.</value>
+    </data>
+	<data name="ContactUsMessage" xml:space="preserve">
+        <value>Vui lòng liên hệ với chúng tôi nếu bạn có bất kỳ câu hỏi nào.</value>
+    </data>
+	<data name="BackToHome" xml:space="preserve">
+        <value>Quay lại trang chủ</value>
+    </data>
+</root>

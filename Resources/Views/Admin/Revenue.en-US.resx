@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="RevenueStatisticsTitle" xml:space="preserve">
+        <value>Revenue Statistics</value>
+    </data>
+	<data name="TotalRevenue" xml:space="preserve">
+        <value>Total Revenue</value>
+    </data>
+	<data name="RevenueChart" xml:space="preserve">
+        <value>Revenue Chart by Month</value>
+    </data>
+	<data name="ConfirmedBookings" xml:space="preserve">
+        <value>Confirmed Bookings List</value>
+    </data>
+	<data name="Room" xml:space="preserve">
+        <value>Room</value>
+    </data>
+	<data name="CheckInDate" xml:space="preserve">
+        <value>Check-In Date</value>
+    </data>
+	<data name="CheckOutDate" xml:space="preserve">
+        <value>Check-Out Date</value>
+    </data>
+	<data name="Price" xml:space="preserve">
+        <value>Price</value>
+    </data>
+	<data name="ID" xml:space="preserve">
+        <value>ID</value>
+    </data>
+</root>

@@ -1,0 +1,46 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+@model IEnumerable<Booking>
+@{
+    ViewData["Title"] = Localizer["Quản lý Đặt phòng"];
+}
+
+<h2>@Localizer["ManageBookingsTitle"]</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Localizer["ID"]</th>
+            <th>@Localizer["Room"]</th>
+            <th>@Localizer["CheckInDate"]</th>
+            <th>@Localizer["CheckOutDate"]</th>
+            <th>@Localizer["Email"]</th>
+            <th>@Localizer["Status"]</th>
+            <th>@Localizer["Actions"]</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var booking in Model)
+        {
+            <tr>
+                <td>@booking.Id</td>
+                <td>@booking.Room.Name</td>
+                <td>@booking.CheckInDate.ToShortDateString()</td>
+                <td>@booking.CheckOutDate.ToShortDateString()</td>
+                <td>@booking.Email</td>
+                <td>@booking.Status</td>
+                <td>
+                    @if (booking.Status == BookingStatus.Pending)
+                    {
+                        <form asp-action="ConfirmBooking" asp-route-id="@booking.Id" method="post" style="display: inline;">
+                            <button type="submit" class="btn btn-success btn-sm">@Localizer["Confirm"]</button>
+                        </form>
+                        <form asp-action="RejectBooking" asp-route-id="@booking.Id" method="post" style="display: inline;">
+                            <button type="submit" class="btn btn-danger btn-sm">@Localizer["Reject"]</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

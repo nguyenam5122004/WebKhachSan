@@ -1,0 +1,41 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+@model LoginViewModel
+@{
+    ViewData["Title"] = "Đăng nhập";
+    Layout = "_AuthLayout";
+}
+
+<h2 class="text-center mb-4">@Localizer["LoginTitle"]</h2>
+
+<form asp-action="Login" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Email">@Localizer["EmailLabel"]</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Password">@Localizer["PasswordLabel"]</label>
+        <input asp-for="Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <div class="custom-control custom-checkbox">
+            <input asp-for="RememberMe" class="custom-control-input" />
+            <label asp-for="RememberMe" class="custom-control-label">@Localizer["RememberMeLabel"]</label>
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary btn-block">@Localizer["LoginButton"]</button>
+</form>
+
+<div class="mt-3 text-center">
+    <p>@Localizer["NoAccountText"] <a asp-action="Register">@Localizer["RegisterLinkText"]</a></p>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="BookingConfirmationSubject" xml:space="preserve">
+        <value>Booking Confirmation</value>
+    </data>
+	<data name="BookingConfirmationTitle" xml:space="preserve">
+        <value>Booking Confirmation</value>
+    </data>
+	<data name="ThankYouBooking" xml:space="preserve">
+        <value>Thank you for booking with us.</value>
+    </data>
+	<data name="BookingDetails" xml:space="preserve">
+        <value>Booking Details</value>
+    </data>
+	<data name="BookingId" xml:space="preserve">
+        <value>Booking ID</value>
+    </data>
+	<data name="Room" xml:space="preserve">
+        <value>Room</value>
+    </data>
+	<data name="CheckInDate" xml:space="preserve">
+        <value>Check-in Date</value>
+    </data>
+	<data name="CheckOutDate" xml:space="preserve">
+        <value>Check-out Date</value>
+    </data>
+	<data name="NumberOfGuests" xml:space="preserve">
+        <value>Number of Guests</value>
+    </data>
+	<data name="TotalPrice" xml:space="preserve">
+        <value>Total Price</value>
+    </data>
+	<data name="Status" xml:space="preserve">
+        <value>Status</value>
+    </data>
+	<data name="ConfirmationEmailMessage" xml:space="preserve">
+        <value>We have received your booking request. Have a wonderful stay!</value>
+    </data>
+	<data name="ContactUsMessage" xml:space="preserve">
+        <value>If you need further details or have any questions, please feel free to contact us.</value>
+    </data>
+	<data name="RoomNotAvailable" xml:space="preserve">
+        <value>The room is not available for the selected dates.</value>
+    </data>
+	<data name="InvalidDates" xml:space="preserve">
+        <value>The check-in and check-out dates are invalid.</value>
+    </data>
+	<data name="BookingSuccessful" xml:space="preserve">
+        <value>Booking Successful!</value>
+    </data>
+</root>

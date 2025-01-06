@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="Khách sạn" xml:space="preserve">
+    <value>Khách sạn</value>
+  </data>
+	<data name="Điện thoại" xml:space="preserve">
+    <value>Điện thoại</value>
+  </data>
+	<data name="email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+	<data name="Tiếng Anh" xml:space="preserve">
+    <value>Tiếng Anh</value>
+  </data>
+	<data name="Tiếng Việt" xml:space="preserve">
+    <value>Tiếng Việt</value>
+  </data>
+	<data name="Menu" xml:space="preserve">
+    <value>Menu</value>
+  </data>
+	<data name="Trang chủ" xml:space="preserve">
+    <value>Trang chủ</value>
+  </data>
+	<data name="Giới thiệu" xml:space="preserve">
+    <value>Giới thiệu</value>
+  </data>
+	<data name="Phòng" xml:space="preserve">
+    <value>Phòng</value>
+  </data>
+	<data name="Dịch vụ" xml:space="preserve">
+    <value>Dịch vụ</value>
+  </data>
+	<data name="Liên hệ" xml:space="preserve">
+    <value>Liên hệ</value>
+  </data>
+	<data name="Tài khoản" xml:space="preserve">
+    <value>Tài khoản</value>
+  </data>
+	<data name="Đăng ký" xml:space="preserve">
+    <value>Đăng ký</value>
+  </data>
+	<data name="Đăng nhập" xml:space="preserve">
+    <value>Đăng nhập</value>
+  </data>
+	<data name="Quản lý" xml:space="preserve">
+    <value>Quản lý</value>
+  </data>
+	<data name="Dashboard" xml:space="preserve">
+    <value>Dashboard</value>
+  </data>
+	<data name="Đặt phòng" xml:space="preserve">
+    <value>Đặt phòng</value>
+  </data>
+	<data name="Thống kê doanh thu" xml:space="preserve">
+    <value>Thống kê doanh thu</value>
+  </data>
+	<data name="Xem thêm" xml:space="preserve">
+    <value>Xem thêm</value>
+  </data>
+	<data name="Bản đồ" xml:space="preserve">
+    <value>Bản đồ</value>
+  </data>
+	<data name="Chỉ đường" xml:space="preserve">
+    <value>Chỉ đường</value>
+  </data>
+	<data name="Dịch vụ phòng" xml:space="preserve">
+    <value>Dịch vụ phòng</value>
+  </data>
+	<data name="Nhà hàng" xml:space="preserve">
+    <value>Nhà hàng</value>
+  </data>
+	<data name="Spa" xml:space="preserve">
+    <value>Spa</value>
+  </data>
+	<data name="Thể dục" xml:space="preserve">
+    <value>Thể dục</value>
+  </data>
+	<data name="khách sạn" xml:space="preserve">
+    <value>khách sạn</value>
+  </data>
+	<data name="nhà" xml:space="preserve">
+    <value>nhà</value>
+  </data>
+	<data name="kỳ nghỉ" xml:space="preserve">
+    <value>Kỳ nghỉ</value>
+  </data>
+	<data name="cho thuê" xml:space="preserve">
+    <value>Cho thuê</value>
+  </data>
+	<data name="phòng" xml:space="preserve">
+    <value>Phòng</value>
+  </data>
+	<data name="Điều khoản" xml:space="preserve">
+    <value>Điều khoản</value>
+  </data>
+	<data name="Quyền riêng tư" xml:space="preserve">
+    <value>Quyền riêng tư</value>
+  </data>
+	<data name="Bản quyền" xml:space="preserve">
+    <value>Bản quyền</value>
+  </data>
+	<data name="Gửi" xml:space="preserve">
+    <value>Gửi</value>
+  </data>
+	<data name="Theo dõi chúng tôi" xml:space="preserve">
+    <value>Theo dõi chúng tôi</value>
+  </data>
+	<data name="FooterDescription" xml:space="preserve">
+    <value>Chào mừng đến với khách sạn Imperial Lotus</value>
+  </data>
+</root>

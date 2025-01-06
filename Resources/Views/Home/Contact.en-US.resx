@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="Liên hệ" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+	<data name="Thông tin Liên hệ" xml:space="preserve">
+    <value>Contact Information</value>
+  </data>
+	<data name="Địa chỉ" xml:space="preserve">
+    <value>Address</value>
+  </data>
+	<data name="123 Đường Lê Lợi, Quận 1, TP. Hồ Chí Minh, Việt Nam" xml:space="preserve">
+    <value>123 Le Loi Street, District 1, Ho Chi Minh City, Vietnam</value>
+  </data>
+	<data name="Điện thoại" xml:space="preserve">
+    <value>Phone</value>
+  </data>
+	<data name="Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+	<data name="Trang web" xml:space="preserve">
+    <value>Website</value>
+  </data>
+	<data name="Họ tên" xml:space="preserve">
+    <value>Full Name</value>
+  </data>
+	<data name="Email của bạn" xml:space="preserve">
+    <value>Your Email</value>
+  </data>
+	<data name="Tiêu đề" xml:space="preserve">
+    <value>Subject</value>
+  </data>
+	<data name="Nội dung" xml:space="preserve">
+    <value>Message</value>
+  </data>
+	<data name="Gửi tin nhắn" xml:space="preserve">
+    <value>Send Message</value>
+  </data>
+</root>

@@ -1,0 +1,62 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+@model AdminViewModel
+@{
+    ViewData["Title"] = Localizer["Quản lý Admin"];
+}
+
+<h2>@Localizer["AdminManagementTitle"]</h2>
+
+<h3>@Localizer["Rooms"]</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Localizer["ID"]</th>
+            <th>@Localizer["RoomName"]</th>
+            <th>@Localizer["Price"]</th>
+            <th>@Localizer["Status"]</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var room in Model.Rooms)
+        {
+            <tr>
+                <td>@room.Id</td>
+                <td>@room.Name</td>
+                <td>@room.PricePerNight.ToString("C0")</td>
+                <td>@(room.IsAvailable ? Localizer["Available"] : Localizer["Booked"])</td>
+                <td>
+                    <a asp-action="EditRoom" asp-route-id="@room.Id" class="btn btn-primary btn-sm">@Localizer["Edit"]</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<h3>@Localizer["Booking"]</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Localizer["ID"]</th>
+            <th>@Localizer["RoomName"]</th>
+            <th>@Localizer["CheckInDate"]</th>
+            <th>@Localizer["CheckOutDate"]</th>
+            <th>@Localizer["Status"]</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var booking in Model.Bookings)
+        {
+            <tr>
+                <td>@booking.Id</td>
+                <td>@booking.Room.Name</td>
+                <td>@booking.CheckInDate.ToShortDateString()</td>
+                <td>@booking.CheckOutDate.ToShortDateString()</td>
+                <td>@booking.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

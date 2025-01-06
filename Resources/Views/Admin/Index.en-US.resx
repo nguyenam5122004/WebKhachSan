@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="AdminManagementTitle" xml:space="preserve">
+        <value>Admin Management</value>
+    </data>
+	<data name="Rooms" xml:space="preserve">
+        <value>Rooms</value>
+    </data>
+	<data name="ID" xml:space="preserve">
+        <value>ID</value>
+    </data>
+	<data name="RoomName" xml:space="preserve">
+        <value>Room Name</value>
+    </data>
+	<data name="Price" xml:space="preserve">
+        <value>Price</value>
+    </data>
+	<data name="Status" xml:space="preserve">
+        <value>Status</value>
+    </data>
+	<data name="Available" xml:space="preserve">
+        <value>Available</value>
+    </data>
+	<data name="Booked" xml:space="preserve">
+        <value>Booked</value>
+    </data>
+	<data name="Edit" xml:space="preserve">
+        <value>Edit</value>
+    </data>
+	<data name="Booking" xml:space="preserve">
+        <value>Booking</value>
+    </data>
+	<data name="CheckInDate" xml:space="preserve">
+        <value>Check-In Date</value>
+    </data>
+	<data name="CheckOutDate" xml:space="preserve">
+        <value>Check-Out Date</value>
+    </data>
+</root>

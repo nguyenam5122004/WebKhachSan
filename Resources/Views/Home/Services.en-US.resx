@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="Services" xml:space="preserve">
+    <value>Services</value>
+  </data>
+	<data name="Home" xml:space="preserve">
+    <value>Home</value>
+  </data>
+	<data name="MapDirection" xml:space="preserve">
+    <value>Map Direction</value>
+  </data>
+	<data name="MapDirectionDescription" xml:space="preserve">
+    <value>Find your way easily with our detailed map directions.</value>
+  </data>
+	<data name="AccomodationServices" xml:space="preserve">
+    <value>Accommodation Services</value>
+  </data>
+	<data name="AccomodationServicesDescription" xml:space="preserve">
+    <value>Enjoy our high-quality accommodation services tailored to your needs.</value>
+  </data>
+	<data name="GreatExperience" xml:space="preserve">
+    <value>Great Experience</value>
+  </data>
+	<data name="GreatExperienceDescription" xml:space="preserve">
+    <value>Discover unforgettable moments with our exceptional services.</value>
+  </data>
+	<data name="ReadMore" xml:space="preserve">
+    <value>Read More</value>
+  </data>
+	<data name="Amenities" xml:space="preserve">
+    <value>Amenities</value>
+  </data>
+	<data name="TeaCoffee" xml:space="preserve">
+    <value>Tea and Coffee</value>
+  </data>
+	<data name="TeaCoffeeDescription" xml:space="preserve">
+    <value>Freshly brewed tea and coffee available 24/7.</value>
+  </data>
+	<data name="HotShowers" xml:space="preserve">
+    <value>Hot Showers</value>
+  </data>
+	<data name="HotShowersDescription" xml:space="preserve">
+    <value>Relax with our comfortable and hygienic hot showers.</value>
+  </data>
+	<data name="Laundry" xml:space="preserve">
+    <value>Laundry</value>
+  </data>
+	<data name="LaundryDescription" xml:space="preserve">
+    <value>Keep your clothes fresh with our convenient laundry services.</value>
+  </data>
+	<data name="AirConditioning" xml:space="preserve">
+    <value>Air Conditioning</value>
+  </data>
+	<data name="AirConditioningDescription" xml:space="preserve">
+    <value>Experience comfort with our advanced air conditioning systems.</value>
+  </data>
+	<data name="FreeWifi" xml:space="preserve">
+    <value>Free Wifi</value>
+  </data>
+	<data name="FreeWifiDescription" xml:space="preserve">
+    <value>Stay connected with our high-speed free Wifi.</value>
+  </data>
+	<data name="Kitchen" xml:space="preserve">
+    <value>Kitchen</value>
+  </data>
+	<data name="KitchenDescription" xml:space="preserve">
+    <value>Prepare meals anytime in our fully-equipped kitchens.</value>
+  </data>
+	<data name="Ironing" xml:space="preserve">
+    <value>Ironing</value>
+  </data>
+	<data name="IroningDescription" xml:space="preserve">
+    <value>Keep your outfits neat and tidy with our ironing facilities.</value>
+  </data>
+	<data name="Lockers" xml:space="preserve">
+    <value>Lockers</value>
+  </data>
+	<data name="LockersDescription" xml:space="preserve">
+    <value>Secure your belongings with our reliable locker services.</value>
+  </data>
+</root>

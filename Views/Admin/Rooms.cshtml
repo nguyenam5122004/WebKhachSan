@@ -1,0 +1,42 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+@model IEnumerable<Room>
+@{
+    ViewData["Title"] = "Quản lý Phòng";
+}
+
+<h2>Quản lý Phòng</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tên phòng</th>
+            <th>Giá</th>
+            <th>Trạng thái</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var room in Model)
+        {
+            <tr>
+                <td>@room.Id</td>
+                <td>@room.Name</td>
+                <td>@room.PricePerNight.ToString("C0")</td>
+                <td>@(room.IsAvailable ? "Còn trống" : "Đã đặt")</td>
+                <td>
+                    <a asp-action="EditRoom" asp-route-id="@room.Id" class="btn btn-primary btn-sm">Sửa</a>
+                    <form asp-action="ToggleRoomStatus" asp-route-id="@room.Id" method="post" style="display: inline;">
+                        <button type="submit" class="btn btn-@(room.IsAvailable ? "warning" : "success") btn-sm">
+                            @(room.IsAvailable ? "Đánh dấu đã đặt" : "Đánh dấu còn trống")
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

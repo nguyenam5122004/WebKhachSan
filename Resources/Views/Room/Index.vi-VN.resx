@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="RoomList" xml:space="preserve">
+    <value>Danh sách phòng</value>
+  </data>
+	<data name="Rooms" xml:space="preserve">
+    <value>Phòng</value>
+  </data>
+	<data name="PerNight" xml:space="preserve">
+    <value>mỗi đêm</value>
+  </data>
+	<data name="MaxCapacity" xml:space="preserve">
+    <value>Sức chứa tối đa</value>
+  </data>
+	<data name="Persons" xml:space="preserve">
+    <value>Người</value>
+  </data>
+	<data name="Size" xml:space="preserve">
+    <value>Kích thước</value>
+  </data>
+	<data name="View" xml:space="preserve">
+    <value>Tầm nhìn</value>
+  </data>
+	<data name="BedType" xml:space="preserve">
+    <value>Loại giường</value>
+  </data>
+	<data name="Availability" xml:space="preserve">
+    <value>Tình trạng</value>
+  </data>
+	<data name="RoomsAvailable" xml:space="preserve">
+    <value> phòng trống</value>
+  </data>
+	<data name="FullyBooked" xml:space="preserve">
+    <value>Đã được đặt hết</value>
+  </data>
+	<data name="ViewRoomDetails" xml:space="preserve">
+    <value>Xem chi tiết phòng</value>
+  </data>
+	<data name="NotAvailable" xml:space="preserve">
+    <value>Không khả dụng</value>
+  </data>
+</root>

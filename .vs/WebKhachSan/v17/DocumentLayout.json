@@ -1,0 +1,1452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\shared\\_selectlanguagepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\shared\\_selectlanguagepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\shared\\_languagepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\shared\\_languagepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\home\\about.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\home\\about.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\home\\about.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\home\\about.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\shared\\_layout.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\shared\\_layout.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\shared\\_layout.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\shared\\_layout.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\controllers\\accountcontroller.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\controllers\\accountcontroller.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\room\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\room\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\booking\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\booking\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\booking\\confirmation.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\booking\\confirmation.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\booking\\confirmation.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\booking\\confirmation.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\controllers\\homecontroller.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\controllers\\homecontroller.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\models\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:models\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\controllers\\bookingcontroller.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\controllers\\bookingcontroller.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\controllers\\bookingcontroller.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\controllers\\bookingcontroller.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\room\\index.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\room\\index.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\room\\index.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\room\\index.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\room\\details.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\room\\details.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\room\\details.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\room\\details.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\home\\services.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\home\\services.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\home\\services.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\home\\services.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\home\\index.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\home\\index.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\home\\contact.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\home\\contact.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\home\\contact.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\home\\contact.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\home\\index.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\home\\index.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\controllers\\homecontroller.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\controllers\\homecontroller.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\admin\\revenue.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\admin\\revenue.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\admin\\revenue.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\admin\\revenue.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\admin\\revenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\admin\\revenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\admin\\rooms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\admin\\rooms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\admin\\index.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\admin\\index.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\admin\\bookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\admin\\bookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\admin\\index.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\admin\\index.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\admin\\editroom.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\admin\\editroom.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\admin\\editroom.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\admin\\editroom.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\admin\\editroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\admin\\editroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\admin\\bookings.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\admin\\bookings.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\admin\\bookings.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\admin\\bookings.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\account\\register.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\account\\register.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\account\\login.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\account\\login.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\account\\register.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\account\\register.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\views\\account\\login.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\views\\account\\login.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\controllers\\admincontroller.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\controllers\\admincontroller.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\controllers\\accountcontroller.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\controllers\\accountcontroller.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\controllers\\admincontroller.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:resources\\controllers\\admincontroller.vi-vn.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\models\\revenueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:models\\revenueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\models\\roomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:models\\roomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\servicecs\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:servicecs\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\servicecs\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:servicecs\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\models\\roomamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:models\\roomamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\models\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:models\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Migrations\\20250104094132_UpdateUserModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250104094132_UpdateUserModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\models\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:models\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\wwwroot\\scss\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:wwwroot\\scss\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\migrations\\20241231014326_addemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:migrations\\20241231014326_addemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\webkhachsan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:webkhachsan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\migrations\\20241231020249_addemailverificationtobooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:migrations\\20241231020249_addemailverificationtobooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\migrations\\20250104111017_addisavailabletoroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:migrations\\20250104111017_addisavailabletoroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\migrations\\20250104094224_updateusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:migrations\\20250104094224_updateusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Shared\\_Layout.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Shared\\_Layout.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Shared\\_Layout.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Shared\\_Layout.en-US.resx",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T08:38:35.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAApwDkAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:01:05.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LanguagePartial.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_LanguagePartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LanguagePartial.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_LanguagePartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LanguagePartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T02:01:16.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T12:32:36.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_SelectLanguagePartial.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_SelectLanguagePartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_SelectLanguagePartial.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_SelectLanguagePartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_SelectLanguagePartial.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T02:01:10.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:42:10.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:03:19.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\About.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\About.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\About.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\About.en-US.resx",
+              "ViewState": "AgIAADgAAAAAAAAAAAD4v0YAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T08:09:38.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\About.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\About.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\About.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\About.vi-VN.resx",
+              "ViewState": "AgIAADgAAAAAAAAAAAD4v0YAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T08:09:47.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:01:26.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Services.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "Views\\Home\\Services.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T08:22:22.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T02:01:04.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Shared\\_Layout.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Shared\\_Layout.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Shared\\_Layout.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Shared\\_Layout.vi-VN.resx",
+              "ViewState": "AgIAAEIAAAAAAAAAAAD4v2wAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T08:39:01.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Controllers\\RoomController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:18:26.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-06T01:52:29.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\AccountController.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Controllers\\AccountController.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\AccountController.en-US.resx",
+              "RelativeToolTip": "Resources\\Controllers\\AccountController.en-US.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T04:12:32.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AgIAACANAAAAAAAAAAAkwB4NAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-06T01:48:20.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-05T07:13:32.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "main.js",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\main.js",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "wwwroot\\js\\main.js",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAgwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-06T01:53:26.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T08:51:21.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:17:57.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Room\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Room\\Index.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Room\\Index.cshtml",
+              "RelativeToolTip": "Views\\Room\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T08:27:41.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\HomeController.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Controllers\\HomeController.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\HomeController.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Controllers\\HomeController.vi-VN.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T07:41:47.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Booking\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Confirmation.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Booking\\Confirmation.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Confirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T01:19:11.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Room\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Room\\Details.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Room\\Details.cshtml",
+              "RelativeToolTip": "Views\\Room\\Details.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwFEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T01:19:59.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Confirmation.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Booking\\Confirmation.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Booking\\Confirmation.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Booking\\Confirmation.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Booking\\Confirmation.en-US.resx",
+              "ViewState": "AgIAABwAAAAAAAAAAAD4vysAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T09:21:35.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Confirmation.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Booking\\Confirmation.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Booking\\Confirmation.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Booking\\Confirmation.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Booking\\Confirmation.vi-VN.resx",
+              "ViewState": "AgIAABwAAAAAAAAAAAD4vysAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T09:21:46.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookingController.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\BookingController.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Controllers\\BookingController.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\BookingController.en-US.resx",
+              "RelativeToolTip": "Resources\\Controllers\\BookingController.en-US.resx",
+              "ViewState": "AgIAACQAAAAAAAAAAAD4vzMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T08:51:19.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookingStatus.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\BookingStatus.cs",
+              "RelativeDocumentMoniker": "Models\\BookingStatus.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\BookingStatus.cs",
+              "RelativeToolTip": "Models\\BookingStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:54:10.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookingController.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\BookingController.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Controllers\\BookingController.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\BookingController.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Controllers\\BookingController.vi-VN.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T08:51:28.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Room\\Index.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Room\\Index.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Room\\Index.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Room\\Index.vi-VN.resx",
+              "ViewState": "AgIAABIAAAAAAAAAAAD4vx4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-03T08:10:04.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Room\\Index.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Room\\Index.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Room\\Index.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Room\\Index.en-US.resx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-03T08:09:36.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Room\\Details.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Room\\Details.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Room\\Details.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Room\\Details.en-US.resx",
+              "ViewState": "AgIAABoAAAAAAAAAAAD4vygAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-03T08:07:37.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Services.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\Services.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Services.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\Services.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Services.vi-VN.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T08:10:49.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Room\\Details.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Room\\Details.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Room\\Details.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Room\\Details.vi-VN.resx",
+              "ViewState": "AgIAABIAAAAAAAAAAAD4vyEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-03T08:08:49.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\Index.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Index.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\Index.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Index.vi-VN.resx",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T08:09:20.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Contact.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\Contact.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Contact.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\Contact.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Contact.en-US.resx",
+              "ViewState": "AgIAABgAAAAAAAAAAAD4vycAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T08:10:10.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Contact.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\Contact.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Contact.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\Contact.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Contact.vi-VN.resx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vycAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T08:10:23.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Services.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\Services.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Services.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\Services.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Services.en-US.resx",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vyEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T08:10:39.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\Index.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Index.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\Index.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Index.en-US.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T08:09:19.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:05:51.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HomeController.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\HomeController.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Controllers\\HomeController.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\HomeController.en-US.resx",
+              "RelativeToolTip": "Resources\\Controllers\\HomeController.en-US.resx",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T07:41:24.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\Index.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Admin\\Index.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\Index.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Admin\\Index.vi-VN.resx",
+              "ViewState": "AgIAABYAAAAAAAAAAAD4vyUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T06:58:34.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T11:00:16.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Bookings.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Admin\\Bookings.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Bookings.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Admin\\Bookings.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Bookings.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T11:05:42.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Revenue.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Admin\\Revenue.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Revenue.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Admin\\Revenue.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Revenue.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T03:48:07.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Rooms.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Admin\\Rooms.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Rooms.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Admin\\Rooms.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Rooms.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T11:03:30.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\Index.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Admin\\Index.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\Index.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Admin\\Index.en-US.resx",
+              "ViewState": "AgIAABYAAAAAAAAAAAD4vyUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T06:58:23.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Revenue.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\Revenue.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Admin\\Revenue.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\Revenue.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Admin\\Revenue.en-US.resx",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T06:58:58.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Revenue.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\Revenue.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Admin\\Revenue.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\Revenue.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Admin\\Revenue.vi-VN.resx",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T06:59:09.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EditRoom.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\EditRoom.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Admin\\EditRoom.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\EditRoom.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Admin\\EditRoom.vi-VN.resx",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T06:58:10.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EditRoom.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\EditRoom.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Admin\\EditRoom.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\EditRoom.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Admin\\EditRoom.en-US.resx",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T06:58:00.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EditRoom.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Admin\\EditRoom.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EditRoom.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Admin\\EditRoom.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EditRoom.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T11:05:13.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Bookings.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\Bookings.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Admin\\Bookings.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\Bookings.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Admin\\Bookings.en-US.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T06:57:36.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Bookings.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\Bookings.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Admin\\Bookings.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Admin\\Bookings.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Admin\\Bookings.vi-VN.resx",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T06:57:46.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Register.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Account\\Register.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Account\\Register.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Account\\Register.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Account\\Register.en-US.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T06:46:07.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:29:20.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T13:30:38.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Login.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Account\\Login.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Account\\Login.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Account\\Login.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Account\\Login.en-US.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T06:38:24.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Register.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Account\\Register.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Account\\Register.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Account\\Register.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Account\\Register.vi-VN.resx",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T06:46:18.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T13:29:41.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AccountController.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\AccountController.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Controllers\\AccountController.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\AccountController.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Controllers\\AccountController.vi-VN.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T04:12:59.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Login.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Account\\Login.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Account\\Login.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Account\\Login.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Account\\Login.vi-VN.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T06:38:45.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AdminController.en-US.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\AdminController.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Controllers\\AdminController.en-US.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\AdminController.en-US.resx",
+              "RelativeToolTip": "Resources\\Controllers\\AdminController.en-US.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-04T12:31:52.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AdminController.vi-VN.resx",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\AdminController.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Controllers\\AdminController.vi-VN.resx",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Controllers\\AdminController.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Controllers\\AdminController.vi-VN.resx",
+              "ViewState": "AgIAABAAAAAAAAAAAAD4vzQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-05T04:09:39.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAuwEkBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:59:29.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:05:36.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RevenueViewModel.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\RevenueViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RevenueViewModel.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\RevenueViewModel.cs",
+              "RelativeToolTip": "Models\\RevenueViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:41:56.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:54:28.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "RoomViewModel.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\RoomViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RoomViewModel.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\RoomViewModel.cs",
+              "RelativeToolTip": "Models\\RoomViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:30:46.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T12:32:30.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Servicecs\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Servicecs\\EmailSender.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Servicecs\\EmailSender.cs",
+              "RelativeToolTip": "Servicecs\\EmailSender.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:59:13.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Servicecs\\EmailService.cs",
+              "RelativeDocumentMoniker": "Servicecs\\EmailService.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Servicecs\\EmailService.cs",
+              "RelativeToolTip": "Servicecs\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:59:48.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:28:54.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "RoomAmenity.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\RoomAmenity.cs",
+              "RelativeDocumentMoniker": "Models\\RoomAmenity.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\RoomAmenity.cs",
+              "RelativeToolTip": "Models\\RoomAmenity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:54:47.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:53:51.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:55:26.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AdminViewModel.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\AdminViewModel.cs",
+              "RelativeToolTip": "Models\\AdminViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:59:52.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20250104111017_AddIsAvailableToRoom.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Migrations\\20250104111017_AddIsAvailableToRoom.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250104111017_AddIsAvailableToRoom.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Migrations\\20250104111017_AddIsAvailableToRoom.cs",
+              "RelativeToolTip": "Migrations\\20250104111017_AddIsAvailableToRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:10:17.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:24:33.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20250104094132_UpdateUserModel.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Migrations\\20250104094132_UpdateUserModel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250104094132_UpdateUserModel.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Migrations\\20250104094132_UpdateUserModel.cs",
+              "RelativeToolTip": "Migrations\\20250104094132_UpdateUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:41:32.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "20250104094224_UpdateUserModel.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Migrations\\20250104094224_UpdateUserModel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250104094224_UpdateUserModel.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Migrations\\20250104094224_UpdateUserModel.cs",
+              "RelativeToolTip": "Migrations\\20250104094224_UpdateUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:42:24.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterViewModel.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:28:32.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Amenity.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\Amenity.cs",
+              "RelativeDocumentMoniker": "Models\\Amenity.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Models\\Amenity.cs",
+              "RelativeToolTip": "Models\\Amenity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:53:25.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "style.scss",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\wwwroot\\scss\\style.scss",
+              "RelativeDocumentMoniker": "wwwroot\\scss\\style.scss",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\wwwroot\\scss\\style.scss",
+              "RelativeToolTip": "wwwroot\\scss\\style.scss",
+              "ViewState": "AgIAAF0CAAAAAAAAAAAEwGwCAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-12-31T08:00:00.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20241231020249_AddEmailVerificationToBooking.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Migrations\\20241231020249_AddEmailVerificationToBooking.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241231020249_AddEmailVerificationToBooking.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Migrations\\20241231020249_AddEmailVerificationToBooking.cs",
+              "RelativeToolTip": "Migrations\\20241231020249_AddEmailVerificationToBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:02:49.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20241231014326_AddEmail.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Migrations\\20241231014326_AddEmail.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241231014326_AddEmail.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Migrations\\20241231014326_AddEmail.cs",
+              "RelativeToolTip": "Migrations\\20241231014326_AddEmail.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:43:26.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "WebKhachSan.csproj",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\WebKhachSan.csproj",
+              "RelativeDocumentMoniker": "WebKhachSan.csproj",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\WebKhachSan.csproj",
+              "RelativeToolTip": "WebKhachSan.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T09:22:55.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:13:20.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

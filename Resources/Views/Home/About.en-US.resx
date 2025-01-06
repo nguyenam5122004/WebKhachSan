@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="Giới thiệu" xml:space="preserve">
+    <value>Introduction</value>
+</data>
+	<data name="Về Chúng tôi" xml:space="preserve">
+    <value>About Us</value>
+</data>
+	<data name="Khách sạn chúng tôi tự hào là điểm đến lý tưởng cho du khách trong và ngoài nước. Với vị trí thuận lợi và dịch vụ chất lượng cao, chúng tôi cam kết mang đến cho quý khách trải nghiệm lưu trú tuyệt vời nhất." xml:space="preserve">
+    <value>Our hotel is proud to be the ideal destination for both domestic and international travelers. With a convenient location and high-quality service, we are committed to providing our guests with the best experience possible.</value>
+</data>
+	<data name="Được thành lập từ năm 2010, chúng tôi không ngừng nâng cao chất lượng dịch vụ và tiện nghi để đáp ứng nhu cầu ngày càng cao của khách hàng. Đội ngũ nhân viên chuyên nghiệp và thân thiện của chúng tôi luôn sẵn sàng phục vụ quý khách 24/7." xml:space="preserve">
+    <value>Founded in 2010, we continuously improve our service quality and amenities to meet the growing needs of our customers. Our professional and friendly team is always available to serve you 24/7.</value>
+</data>
+	<data name="Tầm nhìn và Sứ mệnh" xml:space="preserve">
+    <value>Vision and Mission</value>
+</data>
+	<data name="Tầm nhìn của chúng tôi là trở thành một trong những khách sạn hàng đầu tại Việt Nam, mang đến trải nghiệm lưu trú đẳng cấp và độc đáo cho mọi du khách." xml:space="preserve">
+    <value>Our vision is to become one of the leading hotels in Vietnam, offering world-class and unique experiences for all our guests.</value>
+</data>
+	<data name="Sứ mệnh của chúng tôi là cung cấp dịch vụ lưu trú chất lượng cao, tạo ra không gian thoải mái và sang trọng, đồng thời góp phần quảng bá văn hóa và du lịch Việt Nam đến với bạn bè quốc tế." xml:space="preserve">
+    <value>Our mission is to provide high-quality accommodation services, create comfortable and luxurious spaces, and promote Vietnamese culture and tourism to the international community.</value>
+</data>
+	<data name="Dịch vụ của chúng tôi" xml:space="preserve">
+    <value>Our Services</value>
+</data>
+	<data name="Phòng nghỉ tiện nghi và hiện đại, phù hợp với mọi nhu cầu của khách hàng." xml:space="preserve">
+    <value>Comfortable and modern rooms suitable for all customer needs.</value>
+</data>
+	<data name="Nhà hàng sang trọng với các món ăn đa dạng từ ẩm thực Việt Nam đến quốc tế." xml:space="preserve">
+    <value>Elegant restaurant with a variety of dishes from Vietnamese to international cuisine.</value>
+</data>
+	<data name="Dịch vụ spa và chăm sóc sức khỏe giúp quý khách thư giãn sau một ngày dài." xml:space="preserve">
+    <value>Spa and wellness services to help you relax after a long day.</value>
+</data>
+	<data name="Hỗ trợ tổ chức sự kiện và hội nghị với trang thiết bị hiện đại." xml:space="preserve">
+    <value>Event and conference hosting support with modern equipment.</value>
+</data>
+	<data name="Đội ngũ nhân viên" xml:space="preserve">
+    <value>Our Staff</value>
+</data>
+	<data name="Chúng tôi tự hào có đội ngũ nhân viên chuyên nghiệp, tận tâm và luôn sẵn sàng hỗ trợ quý khách. Với phương châm 'Khách hàng là ưu tiên hàng đầu', mỗi thành viên của chúng tôi đều nỗ lực để mang đến sự hài lòng tuyệt đối cho quý khách." xml:space="preserve">
+    <value>We are proud to have a professional, dedicated team that is always ready to assist you. With the motto "Customer is our priority," every member of our team strives to ensure your absolute satisfaction.</value>
+</data>
+	<data name="Chúng tôi thường xuyên tổ chức các chương trình đào tạo và phát triển kỹ năng cho nhân viên, đảm bảo rằng họ luôn đáp ứng được tiêu chuẩn phục vụ cao nhất." xml:space="preserve">
+    <value>We regularly organize training and skill development programs for our staff, ensuring they always meet the highest service standards.</value>
+</data>
+	<data name="Cam kết của chúng tôi" xml:space="preserve">
+    <value>Our Commitment</value>
+</data>
+	<data name="Chúng tôi cam kết mang đến cho quý khách:" xml:space="preserve">
+    <value>We are committed to providing you with:</value>
+</data>
+	<data name="Chất lượng dịch vụ cao cấp với giá cả hợp lý." xml:space="preserve">
+    <value>High-quality service at reasonable prices.</value>
+</data>
+	<data name="Môi trường lưu trú an toàn, sạch sẽ và thân thiện." xml:space="preserve">
+    <value>Safe, clean, and friendly accommodation environment.</value>
+</data>
+	<data name="Sự hỗ trợ tận tình từ đội ngũ nhân viên mọi lúc, mọi nơi." xml:space="preserve">
+    <value>Dedicated support from our staff anytime, anywhere.</value>
+</data>
+	<data name="Liên hệ với chúng tôi" xml:space="preserve">
+    <value>Contact Us</value>
+</data>
+	<data name="Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào, đừng ngần ngại liên hệ với chúng tôi. Chúng tôi luôn sẵn sàng hỗ trợ!" xml:space="preserve">
+    <value>If you have any questions or requests, feel free to contact us. We are always ready to assist you!</value>
+</data>
+	<data name="Gửi email cho chúng tôi" xml:space="preserve">
+    <value>Email Us</value>
+</data>
+</root>

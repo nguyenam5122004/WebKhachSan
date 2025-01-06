@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="About" xml:space="preserve">
+    <value>Về chúng tôi</value>
+</data>
+	<data name="Services" xml:space="preserve">
+    <value>Dịch vụ của chúng tôi</value>
+</data>
+	<data name="Contact" xml:space="preserve">
+    <value>Liên hệ</value>
+</data>
+</root>

@@ -1,0 +1,46 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@model WebKhachSan.Models.Booking
+@inject IViewLocalizer Localizer
+@{
+    ViewData["Title"] = Localizer["BookingConfirmation"];
+}
+
+<section class="hero-wrap hero-wrap-2" style="background-image: url('/images/bg_1.jpg');">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text align-items-center justify-content-center">
+            <div class="col-md-9 ftco-animate text-center">
+                <h1 class="mb-0 bread">@Localizer["BookingConfirmation"]</h1>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="ftco-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 ftco-animate">
+                <div class="card">
+                    <div class="card-body">
+                        <h2 class="card-title">@Localizer["ThankYouBooking"]</h2>
+                        <p>@Localizer["BookingId"]: <strong>@Model.Id</strong></p>
+                        <hr>
+                        <h3>@Localizer["BookingDetails"]:</h3>
+                        <ul>
+                            <li>@Localizer["Room"]: @Model.Room.Name</li>
+                            <li>@Localizer["CheckInDate"]: @Model.CheckInDate.ToShortDateString()</li>
+                            <li>@Localizer["CheckOutDate"]: @Model.CheckOutDate.ToShortDateString()</li>
+                            <li>@Localizer["NumberOfGuests"]: @Model.NumberOfGuests</li>
+                            <li>@Localizer["Email"]: @Model.Email</li>
+                            <li>@Localizer["TotalPrice"]: @Model.TotalPrice.ToString("C0")</li>
+                            <li>@Localizer["Status"]: @Localizer[Model.Status.ToString()]</li>
+                        </ul>
+                        <p>@Localizer["ConfirmationEmailSent"]</p>
+                        <p>@Localizer["ContactUsMessage"]</p>
+                        <a href="@Url.Action("Index", "Home")" class="btn btn-primary">@Localizer["BackToHome"]</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

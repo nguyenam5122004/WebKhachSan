@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="BookingConfirmationSubject" xml:space="preserve">
+        <value>Booking Confirmation</value>
+    </data>
+	<data name="BookingConfirmationTitle" xml:space="preserve">
+        <value>Booking Confirmation</value>
+    </data>
+	<data name="ThankYouBooking" xml:space="preserve">
+        <value>Thank you for your booking</value>
+    </data>
+	<data name="BookingDetails" xml:space="preserve">
+        <value>Booking Details</value>
+    </data>
+	<data name="BookingId" xml:space="preserve">
+        <value>Booking ID</value>
+    </data>
+	<data name="Room" xml:space="preserve">
+        <value>Room</value>
+    </data>
+	<data name="CheckInDate" xml:space="preserve">
+        <value>Check-In Date</value>
+    </data>
+	<data name="CheckOutDate" xml:space="preserve">
+        <value>Check-Out Date</value>
+    </data>
+	<data name="NumberOfGuests" xml:space="preserve">
+        <value>Number of Guests</value>
+    </data>
+	<data name="TotalPrice" xml:space="preserve">
+        <value>Total Price</value>
+    </data>
+	<data name="Status" xml:space="preserve">
+        <value>Status</value>
+    </data>
+	<data name="ConfirmationEmailMessage" xml:space="preserve">
+        <value>Your booking has been confirmed. We look forward to your visit.</value>
+    </data>
+	<data name="ContactUsMessage" xml:space="preserve">
+        <value>If you have any questions, please contact us.</value>
+    </data>
+	<data name="BookingRejectionSubject" xml:space="preserve">
+        <value>Booking Rejection</value>
+    </data>
+	<data name="BookingRejectionTitle" xml:space="preserve">
+        <value>Booking Rejection</value>
+    </data>
+	<data name="SorryBookingRejected" xml:space="preserve">
+        <value>Sorry, your booking has been rejected.</value>
+    </data>
+	<data name="RejectionEmailMessage" xml:space="preserve">
+        <value>Your booking has been rejected. We apologize for the inconvenience.</value>
+    </data>
+</root>
+

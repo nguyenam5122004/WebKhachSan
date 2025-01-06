@@ -1,0 +1,114 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@model WebKhachSan.Models.RoomViewModel
+@inject IViewLocalizer Localizer
+@{
+    ViewData["Title"] = Model.Name;
+}
+
+<section class="hero-wrap hero-wrap-2" style="background-image: url('/images/room-1.jpg');">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text align-items-center justify-content-center">
+            <div class="col-md-9 ftco-animate text-center">
+                <h1 class="mb-0 bread">@Model.Name</h1>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="ftco-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="row">
+                    <div class="col-md-12 ftco-animate">
+                        <div class="single-slider owl-carousel">
+                            <div class="item">
+                                <div class="room-img" style="background-image: url('@Model.ImageUrl');"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 room-single mt-4 mb-5 ftco-animate">
+                        <h2 class="mb-4">@Model.Name <span>(@Model.PricePerNight.ToString("C0")/@Localizer["PerNight"])</span></h2>
+                        <p>@Model.Description</p>
+                        <div class="d-md-flex mt-5 mb-5">
+                            <ul class="list">
+                                <li><span>@Localizer["MaxCapacity"]:</span> @Model.Capacity</li>
+                                <li><span>@Localizer["RoomType"]:</span> @Model.RoomType</li>
+                                <li><span>@Localizer["View"]:</span> @Model.View</li>
+                                <li><span>@Localizer["BedType"]:</span> @Model.BedType</li>
+                            </ul>
+                            <ul class="list ml-md-5">
+                                @foreach (var amenity in Model.Amenities)
+                                {
+                                    <li><span>@amenity.Name</span></li>
+                                }
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 sidebar ftco-animate">
+                <div class="sidebar-box">
+                    @if (Model.AvailableRooms > 0)
+                    {
+                        <form asp-controller="Booking" asp-action="Create" method="post" class="booking-form">
+                            <input type="hidden" name="roomId" value="@Model.Id" />
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="fields">
+                                <div class="form-group">
+                                    <input type="text" name="checkInDate" class="form-control checkin_date" placeholder="@Localizer["CheckInDate"]" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" name="checkOutDate" class="form-control checkout_date" placeholder="@Localizer["CheckOutDate"]" required>
+                                </div>
+                                <div class="form-group">
+                                    <div class="select-wrap one-third">
+                                        <div class="icon"><span class="ion-ios-arrow-down"></span></div>
+                                        <select name="numberOfGuests" id="" class="form-control" required>
+                                            @for (int i = 1; i <= Model.Capacity; i++)
+                                            {
+                                                <option value="@i">@i @(i == 1 ? Localizer["Person"] : Localizer["People"])</option>
+                                            }
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" name="email" class="form-control" placeholder="@Localizer["Email"]" value="@ViewData["UserEmail"]" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="submit" value="@Localizer["BookNow"]" class="btn btn-primary py-3 px-5">
+                                </div>
+                            </div>
+                        </form>
+                    }
+                    else
+                    {
+                        <div class="alert alert-warning">
+                            <h4>@Localizer["FullyBooked"]</h4>
+                            <p>@Localizer["NoAvailableRooms"]</p>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // Khởi tạo Flatpickr cho trường Check-In
+        flatpickr(".checkin_date", {
+            dateFormat: "Y-m-d", // Định dạng ngày
+            minDate: "today", // Không cho phép chọn ngày trong quá khứ
+            defaultDate: "today", // Mặc định là ngày hiện tại
+        });
+
+        // Khởi tạo Flatpickr cho trường Check-Out
+        flatpickr(".checkout_date", {
+            dateFormat: "Y-m-d", // Định dạng ngày
+            minDate: new Date().fp_incr(1), // Không cho phép chọn ngày check-out trước ngày check-in
+        });
+    });
+</script>

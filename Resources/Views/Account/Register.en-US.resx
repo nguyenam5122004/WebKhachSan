@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="RegisterTitle" xml:space="preserve">
+        <value>Register</value>
+    </data>
+	<data name="FirstNameLabel" xml:space="preserve">
+        <value>First Name</value>
+    </data>
+	<data name="LastNameLabel" xml:space="preserve">
+        <value>Last Name</value>
+    </data>
+	<data name="EmailLabel" xml:space="preserve">
+        <value>Email</value>
+    </data>
+	<data name="PasswordLabel" xml:space="preserve">
+        <value>Password</value>
+    </data>
+	<data name="ConfirmPasswordLabel" xml:space="preserve">
+        <value>Confirm Password</value>
+    </data>
+	<data name="RegisterButton" xml:space="preserve">
+        <value>Register</value>
+    </data>
+	<data name="LoginLinkText" xml:space="preserve">
+        <value>Login</value>
+    </data>
+	<data name="AlreadyHaveAccountText" xml:space="preserve">
+        <value>Already have an account?</value>
+    </data>
+</root>

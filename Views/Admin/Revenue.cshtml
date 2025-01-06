@@ -1,0 +1,85 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+@model RevenueViewModel
+@{
+    ViewData["Title"] = Localizer["Thống kê doanh thu"];
+}
+
+<h2>@Localizer["RevenueStatisticsTitle"]</h2>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card mb-4">
+            <div class="card-body">
+                <h5 class="card-title">@Localizer["TotalRevenue"]</h5>
+                <p class="card-text display-4">@Model.TotalRevenue.ToString("C0")</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card mb-4">
+            <div class="card-body">
+                <h5 class="card-title">@Localizer["RevenueChart"]</h5>
+                <canvas id="revenueChart"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">@Localizer["ConfirmedBookings"]</h5>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>@Localizer["ID"]</th>
+                    <th>@Localizer["Room"]</th>
+                    <th>@Localizer["CheckInDate"]</th>
+                    <th>@Localizer["CheckOutDate"]</th>
+                    <th>@Localizer["Price"]</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var booking in Model.ConfirmedBookings)
+                {
+                    <tr>
+                        <td>@booking.Id</td>
+                        <td>@booking.Room.Name</td>
+                        <td>@booking.CheckInDate.ToShortDateString()</td>
+                        <td>@booking.CheckOutDate.ToShortDateString()</td>
+                        <td>@booking.TotalPrice.ToString("C0")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        var ctx = document.getElementById('revenueChart').getContext('2d');
+        var chart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: [@Html.Raw(string.Join(",", Model.RevenueByMonth.Select(r => $"'{r.Year}/{r.Month}'")))],
+                datasets: [{
+                    label: '@Localizer["TotalRevenue"]',
+                    data: [@string.Join(",", Model.RevenueByMonth.Select(r => r.Revenue))],
+                    backgroundColor: 'rgba(75, 192, 192, 0.6)',
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    </script>
+}
+

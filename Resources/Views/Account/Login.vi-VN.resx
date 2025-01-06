@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="LoginTitle" xml:space="preserve">
+        <value>Đăng nhập</value>
+    </data>
+	<data name="EmailLabel" xml:space="preserve">
+        <value>Email</value>
+    </data>
+	<data name="PasswordLabel" xml:space="preserve">
+        <value>Mật khẩu</value>
+    </data>
+	<data name="RememberMeLabel" xml:space="preserve">
+        <value>Ghi nhớ đăng nhập</value>
+    </data>
+	<data name="LoginButton" xml:space="preserve">
+        <value>Đăng nhập</value>
+    </data>
+	<data name="RegisterLinkText" xml:space="preserve">
+        <value>Đăng ký</value>
+    </data>
+	<data name="NoAccountText" xml:space="preserve">
+        <value>Chưa có tài khoản?</value>
+    </data>
+</root>

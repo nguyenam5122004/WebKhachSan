@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="ManageBookingsTitle" xml:space="preserve">
+        <value>Manage Bookings</value>
+    </data>
+	<data name="ID" xml:space="preserve">
+        <value>ID</value>
+    </data>
+	<data name="Room" xml:space="preserve">
+        <value>Room</value>
+    </data>
+	<data name="CheckInDate" xml:space="preserve">
+        <value>Check-In Date</value>
+    </data>
+	<data name="CheckOutDate" xml:space="preserve">
+        <value>Check-Out Date</value>
+    </data>
+	<data name="Email" xml:space="preserve">
+        <value>Email</value>
+    </data>
+	<data name="Status" xml:space="preserve">
+        <value>Status</value>
+    </data>
+	<data name="Actions" xml:space="preserve">
+        <value>Actions</value>
+    </data>
+	<data name="Confirm" xml:space="preserve">
+        <value>Confirm</value>
+    </data>
+	<data name="Reject" xml:space="preserve">
+        <value>Reject</value>
+    </data>
+</root>

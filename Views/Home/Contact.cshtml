@@ -1,0 +1,89 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+@{
+    ViewData["Title"] = Localizer["Liên hệ"];
+}
+
+<section class="hero-wrap hero-wrap-2" style="background-image: url('/images/bg_1.jpg');">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text align-items-center justify-content-center">
+            <div class="col-md-9 ftco-animate text-center">
+                <h1 class="mb-0 bread">@Localizer["Liên hệ"]</h1>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="ftco-section contact-section bg-light">
+    <div class="container">
+        <div class="row d-flex mb-5 contact-info">
+            <div class="col-md-12 mb-4">
+                <h2 class="h3">@Localizer["Thông tin Liên hệ"]</h2>
+            </div>
+            <div class="w-100"></div>
+            <div class="col-md-3 d-flex">
+                <div class="info bg-white p-4">
+                    <p><span>@Localizer["Địa chỉ"]:</span> @Localizer["123 Đường Lê Lợi, Quận 1, TP. Hồ Chí Minh, Việt Nam"]</p>
+                </div>
+            </div>
+            <div class="col-md-3 d-flex">
+                <div class="info bg-white p-4">
+                    <p><span>@Localizer["Điện thoại"]:</span> <a href="tel://1234567920">+ 84 123 456 789</a></p>
+                </div>
+            </div>
+            <div class="col-md-3 d-flex">
+                <div class="info bg-white p-4">
+                    <p><span>@Localizer["Email"]:</span> <a href="mailto:imperiallotus123@gmail.com">imperiallotus123@gmail.com</a></p>
+                </div>
+            </div>
+            <div class="col-md-3 d-flex">
+                <div class="info bg-white p-4">
+                    <p><span>@Localizer["Trang web"]:</span> <a href="#">khachsan.com</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="row block-9">
+            <div class="col-md-6 order-md-last d-flex">
+                <form action="#" class="bg-white p-5 contact-form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="@Localizer["Họ tên"]">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="@Localizer["Email của bạn"]">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="@Localizer["Tiêu đề"]">
+                    </div>
+                    <div class="form-group">
+                        <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="@Localizer["Nội dung"]"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="@Localizer["Gửi tin nhắn"]" class="btn btn-primary py-3 px-5">
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-6 d-flex">
+                <div id="map" class="bg-white"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        function initMap() {
+            var uluru = {lat: 21.0031177, lng: 105.8201408};
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 15,
+                center: uluru
+            });
+            var marker = new google.maps.Marker({
+                position: uluru,
+                map: map
+            });
+        }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"></script>
+}
+
