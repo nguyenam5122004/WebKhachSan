@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebKhachSan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30d71378d5cb4e9775a5b726e3d38c37bc15c625")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebKhachSan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebKhachSan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

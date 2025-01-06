@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7081757C-503F-40F9-911D-9A51027233FF}|WebKhachSan.csproj|d:\\btap\\laptrinhweb\\webkhachsan1\\webkhachsan\\resources\\controllers\\accountcontroller.en-us.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -366,24 +366,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAADoAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T09:03:19.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_Layout.en-US.resx",
               "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Shared\\_Layout.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Shared\\_Layout.en-US.resx",
@@ -395,20 +382,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACMAAAAAAAAAAAApwDkAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-30T09:01:05.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T09:01:05.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_LanguagePartial.cshtml",
               "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_LanguagePartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LanguagePartial.cshtml",
@@ -416,12 +402,11 @@
               "RelativeToolTip": "Views\\Shared\\_LanguagePartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T02:01:16.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T02:01:16.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -429,12 +414,11 @@
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-30T12:32:36.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T12:32:36.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_SelectLanguagePartial.cshtml",
               "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_SelectLanguagePartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_SelectLanguagePartial.cshtml",
@@ -442,12 +426,36 @@
               "RelativeToolTip": "Views\\Shared\\_SelectLanguagePartial.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T02:01:10.409Z",
+              "WhenOpened": "2025-01-06T02:01:10.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:42:10.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:03:19.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "About.en-US.resx",
               "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\About.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\About.en-US.resx",
@@ -455,12 +463,11 @@
               "RelativeToolTip": "Resources\\Views\\Home\\About.en-US.resx",
               "ViewState": "AgIAADgAAAAAAAAAAAD4v0YAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-01-05T08:09:38.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T08:09:38.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "About.vi-VN.resx",
               "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Home\\About.vi-VN.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\About.vi-VN.resx",
@@ -472,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "About.cshtml",
               "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
@@ -484,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Services.cshtml",
               "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Home\\Services.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Services.cshtml",
@@ -496,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_AuthLayout.cshtml",
               "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Views\\Shared\\_AuthLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_AuthLayout.cshtml",
@@ -508,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "_Layout.vi-VN.resx",
               "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Resources\\Views\\Shared\\_Layout.vi-VN.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Shared\\_Layout.vi-VN.resx",
@@ -520,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "RoomController.cs",
               "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Controllers\\RoomController.cs",
               "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
@@ -532,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "site.js",
               "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -553,18 +560,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-01-05T04:12:32.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\btap\\LapTrinhWeb\\WebKhachSan1\\WebKhachSan\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAB8AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T08:42:10.675Z"
             },
             {
               "$type": "Document",
@@ -1428,8 +1423,7 @@
               "RelativeToolTip": "WebKhachSan.csproj",
               "ViewState": "AgIAAAcAAAAAAAAAAAAjwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-30T09:22:55.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T09:22:55.235Z"
             },
             {
               "$type": "Document",
